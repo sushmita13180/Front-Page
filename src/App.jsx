@@ -6,7 +6,7 @@ import Section from './components/Section'
 function App() {
 
   return (
-    <center>
+    <center className='mx-auto w-[1400px]'>
    <NavigationBar />
     <Section />
     <Footer />
